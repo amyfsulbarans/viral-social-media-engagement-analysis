@@ -32,5 +32,11 @@ The objective is to determine which platforms and content types generate the hig
 
 - `viral_social_media_analysis.ipynb` → Full analysis notebook
 
+## SQL Analysis
+
+This project also includes SQL queries used to analyze platform performance, content effectiveness, and engagement distribution.
+
+File: `sql/social_media_queries.sql`
+
 ## Author
 Amy Sulbaran
